@@ -83,7 +83,9 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CSS\main.css" />
     <Content Include="hello-world.html" />
+    <Content Include="JS\main.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
